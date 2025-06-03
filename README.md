@@ -47,4 +47,9 @@
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/devanshsmathur/DSAPractice/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1894-merge-strings-alternately](https://github.com/devanshsmathur/DSAPractice/tree/master/1894-merge-strings-alternately) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/devanshsmathur/DSAPractice/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
