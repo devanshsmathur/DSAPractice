@@ -9,6 +9,7 @@
 | [0217-contains-duplicate](https://github.com/devanshsmathur/DSAPractice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/devanshsmathur/DSAPractice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devanshsmathur/DSAPractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/devanshsmathur/DSAPractice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/devanshsmathur/DSAPractice/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
