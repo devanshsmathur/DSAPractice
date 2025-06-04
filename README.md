@@ -8,6 +8,7 @@
 | [0136-single-number](https://github.com/devanshsmathur/DSAPractice/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/devanshsmathur/DSAPractice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/devanshsmathur/DSAPractice/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/devanshsmathur/DSAPractice/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devanshsmathur/DSAPractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/devanshsmathur/DSAPractice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/devanshsmathur/DSAPractice/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -52,5 +53,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/devanshsmathur/DSAPractice/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/devanshsmathur/DSAPractice/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
