@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devanshsmathur/DSAPractice/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/devanshsmathur/DSAPractice/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/devanshsmathur/DSAPractice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/devanshsmathur/DSAPractice/tree/master/0268-missing-number) |
@@ -61,6 +62,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devanshsmathur/DSAPractice/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/devanshsmathur/DSAPractice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/devanshsmathur/DSAPractice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devanshsmathur/DSAPractice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -79,6 +81,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/devanshsmathur/DSAPractice/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/devanshsmathur/DSAPractice/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
