@@ -7,12 +7,6 @@ class Solution {
         return str1.substring(0,len);       // We'll take out the GCD String from Str1
     }
         private int gcd(int len1, int len2){
-            // Using euclidean algo
-            while(len2 != 0){ 
-                int temp = len1%len2;
-                len1=len2;
-                len2=temp;
-            }
-            return len1;
+            return len2==0? len1:gcd(len2,len1%len2);
         }
     }
