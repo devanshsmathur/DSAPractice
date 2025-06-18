@@ -4,12 +4,12 @@ class Solution {
         int a=Integer.MAX_VALUE;
         int b=Integer.MAX_VALUE;
 
-        for(int i=0; i<nums.length;i++){
-            if(a>=nums[i]){
-                a = nums[i];
+        for(int n:nums){
+            if(a>=n){
+                a = n;
             }
-            else if (b>=nums[i]){
-                b = nums[i];
+            else if (b>=n){
+                b = n;
             }
             else{
                 return true;
