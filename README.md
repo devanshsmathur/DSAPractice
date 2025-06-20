@@ -17,6 +17,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/devanshsmathur/DSAPractice/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/devanshsmathur/DSAPractice/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/devanshsmathur/DSAPractice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1833-find-the-highest-altitude](https://github.com/devanshsmathur/DSAPractice/tree/master/1833-find-the-highest-altitude) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/devanshsmathur/DSAPractice/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
@@ -91,4 +92,5 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/devanshsmathur/DSAPractice/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/devanshsmathur/DSAPractice/tree/master/1046-max-consecutive-ones-iii) |
+| [1833-find-the-highest-altitude](https://github.com/devanshsmathur/DSAPractice/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
