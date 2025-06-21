@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/devanshsmathur/DSAPractice/tree/master/0011-container-with-most-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshsmathur/DSAPractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/devanshsmathur/DSAPractice/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/devanshsmathur/DSAPractice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/devanshsmathur/DSAPractice/tree/master/0238-product-of-array-except-self) |
@@ -74,6 +75,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshsmathur/DSAPractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/devanshsmathur/DSAPractice/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
