@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/devanshsmathur/DSAPractice/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/devanshsmathur/DSAPractice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/devanshsmathur/DSAPractice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devanshsmathur/DSAPractice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/devanshsmathur/DSAPractice/tree/master/1894-merge-strings-alternately) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/devanshsmathur/DSAPractice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Two Pointers
 |  |
 | ------- |
