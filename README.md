@@ -18,6 +18,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/devanshsmathur/DSAPractice/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/devanshsmathur/DSAPractice/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/devanshsmathur/DSAPractice/tree/master/1046-max-consecutive-ones-iii) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/devanshsmathur/DSAPractice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/devanshsmathur/DSAPractice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/devanshsmathur/DSAPractice/tree/master/1833-find-the-highest-altitude) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/devanshsmathur/DSAPractice/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -27,6 +28,7 @@
 | [0217-contains-duplicate](https://github.com/devanshsmathur/DSAPractice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/devanshsmathur/DSAPractice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devanshsmathur/DSAPractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/devanshsmathur/DSAPractice/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
