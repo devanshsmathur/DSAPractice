@@ -20,6 +20,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/devanshsmathur/DSAPractice/tree/master/1046-max-consecutive-ones-iii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/devanshsmathur/DSAPractice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/devanshsmathur/DSAPractice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devanshsmathur/DSAPractice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/devanshsmathur/DSAPractice/tree/master/1833-find-the-highest-altitude) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/devanshsmathur/DSAPractice/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -82,12 +83,14 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshsmathur/DSAPractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/devanshsmathur/DSAPractice/tree/master/0392-is-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devanshsmathur/DSAPractice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/devanshsmathur/DSAPractice/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/devanshsmathur/DSAPractice/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devanshsmathur/DSAPractice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devanshsmathur/DSAPractice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
 | ------- |
