@@ -9,8 +9,7 @@ class Solution {
                 oc.put(arr[i],++count);
             }
             else{
-                int add= oc.get(arr[i]) + 1;
-                oc.put(arr[i], add);
+                oc.put(arr[i], oc.get(arr[i]) + 1);
             }
         } 
         HashSet<Integer> val = new HashSet<>();
