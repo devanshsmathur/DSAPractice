@@ -13,11 +13,12 @@ class Solution {
             }
         } 
         HashSet<Integer> val = new HashSet<>();
-        for(int x:oc.values()){
-            val.add(x);
+        for(int x:oc.keySet()){
+            if(val.contains(oc.get(x))) return false;
+            val.add(oc.get(x));
         }
 
 
-    return val.size() == oc.size();
+    return true;
     }
 }
