@@ -32,11 +32,13 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devanshsmathur/DSAPractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/devanshsmathur/DSAPractice/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/devanshsmathur/DSAPractice/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/devanshsmathur/DSAPractice/tree/master/1777-determine-if-two-strings-are-close) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/devanshsmathur/DSAPractice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/devanshsmathur/DSAPractice/tree/master/0268-missing-number) |
+| [1777-determine-if-two-strings-are-close](https://github.com/devanshsmathur/DSAPractice/tree/master/1777-determine-if-two-strings-are-close) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | [0392-is-subsequence](https://github.com/devanshsmathur/DSAPractice/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/devanshsmathur/DSAPractice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/devanshsmathur/DSAPractice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/devanshsmathur/DSAPractice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/devanshsmathur/DSAPractice/tree/master/1894-merge-strings-alternately) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/devanshsmathur/DSAPractice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Two Pointers
@@ -106,4 +109,8 @@
 | [0724-find-pivot-index](https://github.com/devanshsmathur/DSAPractice/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/devanshsmathur/DSAPractice/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/devanshsmathur/DSAPractice/tree/master/1833-find-the-highest-altitude) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/devanshsmathur/DSAPractice/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
