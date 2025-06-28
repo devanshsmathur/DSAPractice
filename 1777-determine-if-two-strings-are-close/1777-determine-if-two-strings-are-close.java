@@ -25,12 +25,6 @@ class Solution {
                 hm2.put(c,1);
             }
         }
-        for (Map.Entry<Character, Integer> entry : hm1.entrySet()) {
-            System.out.println("Key: " + entry.getKey() + ", Value: " + entry.getValue());
-        }
-        for (Map.Entry<Character, Integer> entry : hm2.entrySet()) {
-            System.out.println("Key: " + entry.getKey() + ", Value: " + entry.getValue());
-        }
         if(!hm1.keySet().equals(hm2.keySet())) return false;
         
         List<Integer> values1 = new ArrayList<>(hm1.values());
