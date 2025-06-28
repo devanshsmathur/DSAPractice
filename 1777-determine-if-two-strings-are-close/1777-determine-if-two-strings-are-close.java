@@ -1,34 +1,48 @@
 class Solution {
     public boolean closeStrings(String word1, String word2) {
-        if(word1.length() != word2.length()) return false;
-
-        Set<Character> word1Set = new HashSet<>();
-        Set<Character> word2Set = new HashSet<>();
-
-        for(int i=0; i<word1.length(); ++i) {
-            word1Set.add(word1.charAt(i));
-            word2Set.add(word2.charAt(i));
+        char[] c1 = word1.toCharArray();
+        char[] c2 = word2.toCharArray();
+        
+        
+        if(c1.length != c2.length) return false;
+     
+        HashMap<Character,Integer> hm1 = new HashMap<>();
+        for(char c:c1){
+            if(hm1.containsKey(c)){
+                hm1.put(c,hm1.get(c)+1);
+            }
+            else{
+                hm1.put(c,1);
+            }
         }
 
-        if(!word1Set.equals(word2Set)) return false;
-
-        Map<Character, Integer> word1TreeMap = new TreeMap<>();
-        Map<Character, Integer> word2TreeMap = new TreeMap<>();
-
-        for(int i=0; i<word1.length(); ++i) {
-            Character w1 = word1.charAt(i);
-            Character w2 = word2.charAt(i);
-
-            word1TreeMap.put(w1, word1TreeMap.getOrDefault(w1, 0)+1);
-            word2TreeMap.put(w2, word2TreeMap.getOrDefault(w2, 0)+1);
+        HashMap<Character,Integer> hm2 = new HashMap<>();
+        for(char c:c2){
+            if(hm2.containsKey(c)){
+                hm2.put(c,hm2.get(c)+1);
+            }
+            else{
+                hm2.put(c,1);
+            }
         }
+        for (Map.Entry<Character, Integer> entry : hm1.entrySet()) {
+            System.out.println("Key: " + entry.getKey() + ", Value: " + entry.getValue());
+        }
+        for (Map.Entry<Character, Integer> entry : hm2.entrySet()) {
+            System.out.println("Key: " + entry.getKey() + ", Value: " + entry.getValue());
+        }
+        if(!hm1.keySet().equals(hm2.keySet())) return false;
+        
+        List<Integer> values1 = new ArrayList<>(hm1.values());
+        List<Integer> values2 = new ArrayList<>(hm2.values());
 
-        List<Integer> word1MapValues = new ArrayList<>(word1TreeMap.values());
-        List<Integer> word2MapValues = new ArrayList<>(word2TreeMap.values());
+        Collections.sort(values1);
+        Collections.sort(values2);
 
-        Collections.sort(word1MapValues);
-        Collections.sort(word2MapValues);
+        if (!values1.equals(values2)) return false;
 
-        return word1MapValues.equals(word2MapValues);
+
+
+        return true;
     }
 }
