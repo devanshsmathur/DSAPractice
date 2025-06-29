@@ -4,15 +4,14 @@ class Solution {
         int index=0;
         
         while(i<chars.length){
-            int letter = chars[i];
+            char letter = chars[i];
             int count=0;
-            chars[index++]=chars[i];
-
 
             while(i<chars.length && chars[i]==letter){
-                count++;
-                i++;
+                ++count;
+                ++i;
             }
+            chars[index++]=letter;
 
             if(count>1){
                 for(Character c:String.valueOf(count).toCharArray()){
