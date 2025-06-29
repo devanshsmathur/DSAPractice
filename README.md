@@ -22,6 +22,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/devanshsmathur/DSAPractice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/devanshsmathur/DSAPractice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/devanshsmathur/DSAPractice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/devanshsmathur/DSAPractice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/devanshsmathur/DSAPractice/tree/master/1833-find-the-highest-altitude) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/devanshsmathur/DSAPractice/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -33,12 +34,14 @@
 | [1319-unique-number-of-occurrences](https://github.com/devanshsmathur/DSAPractice/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/devanshsmathur/DSAPractice/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/devanshsmathur/DSAPractice/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/devanshsmathur/DSAPractice/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/devanshsmathur/DSAPractice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/devanshsmathur/DSAPractice/tree/master/0268-missing-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/devanshsmathur/DSAPractice/tree/master/1777-determine-if-two-strings-are-close) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/devanshsmathur/DSAPractice/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +87,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/devanshsmathur/DSAPractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/devanshsmathur/DSAPractice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/devanshsmathur/DSAPractice/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/devanshsmathur/DSAPractice/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/devanshsmathur/DSAPractice/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
