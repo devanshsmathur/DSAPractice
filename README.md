@@ -70,6 +70,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/devanshsmathur/DSAPractice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/devanshsmathur/DSAPractice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/devanshsmathur/DSAPractice/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/devanshsmathur/DSAPractice/tree/master/2470-removing-stars-from-a-string) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/devanshsmathur/DSAPractice/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/devanshsmathur/DSAPractice/tree/master/1894-merge-strings-alternately) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/devanshsmathur/DSAPractice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2470-removing-stars-from-a-string](https://github.com/devanshsmathur/DSAPractice/tree/master/2470-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/devanshsmathur/DSAPractice/tree/master/1777-determine-if-two-strings-are-close) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/devanshsmathur/DSAPractice/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
