@@ -6,20 +6,11 @@ class RecentCounter {
     }
     
     public int ping(int t) {
-        this.req.add(t);
-        int count=0;
+        req.add(t);
 
-        for(Integer i : req){
-            if(i >= t-3000 && i<= t ){
-                count++;
-            }
+        while(req.peek() < t-3000){
+            req.poll();
         }
-        return count;
+        return req.size();
     }
 }
-
-/**
- * Your RecentCounter object will be instantiated and called as such:
- * RecentCounter obj = new RecentCounter();
- * int param_1 = obj.ping(t);
- */
